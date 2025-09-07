@@ -1,16 +1,18 @@
-# SquadArena — Play Games. Compete. Win Real Money.
+# SquadArena — Free Fire Max | Play • Win • Earn Real Cash
 
-SquadArena is an esports platform designed for gamers to compete in skill-based games and earn real rewards. Whether you’re a casual player or a competitive grinder, SquadArena gives you a fair, fun, and secure way to play, host, and win.
+SquadArena is a trusted esports platform focused on Garena Free Fire Max, where gamers compete in skill-based matches and tournaments to play, win, and earn real cash. Whether you’re a casual player or a competitive grinder, SquadArena gives you a fair, fun, and secure way to play, host, and win.
 
 ## Why SquadArena?
-- Skill-based competitive matches and tournaments
+- Built for Free Fire Max competitive matches and tournaments
+- Skill-based competition with fair, transparent rules
 - Real-money rewards with secure payouts
 - Fair play with anti-cheat and verified results
 - Play solo, with friends, or join squads
 - Easy onboarding — start competing in minutes
+ - Trusted platform for Free Fire Max players
 
 ## Key Features
-- Ranked and unranked matches across supported games
+- Ranked and unranked matches across Free Fire Max modes (Clash Squad, Battle Royale, and more)
 - 1v1, 2v2, and Squad formats
 - Tournaments: daily, weekly, and special events
 - Wallet: deposits, withdrawals, and prize tracking
@@ -23,7 +25,7 @@ SquadArena is an esports platform designed for gamers to compete in skill-based 
 1. Create your account and set up your profile.
 2. Add funds to your wallet (or join free-entry events).
 3. Join a match or tournament that fits your skill bracket.
-4. Play the game, submit results (auto or manual, depending on the title).
+4. Play Free Fire Max, submit results (auto or manual, depending on the match type).
 5. Win prizes and withdraw securely.
 
 ## Fair Play & Security
@@ -33,8 +35,8 @@ SquadArena is an esports platform designed for gamers to compete in skill-based 
 - Transparent rules for each game/match type
 
 ## Supported Games
-- Popular competitive titles and mobile esports games.
-- More games added regularly based on community demand.
+- Primary: Garena Free Fire Max (core focus of the platform)
+- Coming soon: Additional popular mobile esports titles based on community demand.
 
 If you’re a developer or publisher interested in integrations, reach out via the contact section below.
 
@@ -71,7 +73,7 @@ git push -u origin main
 ## Contact
 - Business & Partnerships: partnerships@squadarena.gg
 - Support: support@squadarena.gg
-- Website: https://www.squadarena.gg (placeholder)
+- Website: https://www.squadarena.in
 
 ## Legal
 - Users must comply with local laws and age requirements.
