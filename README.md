@@ -1,9 +1,9 @@
-# SquadArena — Free Fire Max | Play • Win • Earn Real Cash
+# SquadArena — Free Fire Max & BGMI | Play • Win • Earn Real Cash
 
-SquadArena is a trusted esports platform focused on Garena Free Fire Max, where gamers compete in skill-based matches and tournaments to play, win, and earn real cash. Whether you’re a casual player or a competitive grinder, SquadArena gives you a fair, fun, and secure way to play, host, and win.
+SquadArena is a trusted esports platform focused on Garena Free Fire Max & BGMI, where gamers compete in skill-based matches and tournaments to play, win, and earn real cash. Whether you’re a casual player or a competitive grinder, SquadArena gives you a fair, fun, and secure way to play, host, and win.
 
 ## Why SquadArena?
-- Built for Free Fire Max competitive matches and tournaments
+- Built for Free Fire Max & BGMI competitive matches and tournaments
 - Skill-based competition with fair, transparent rules
 - Real-money rewards with secure payouts
 - Fair play with anti-cheat and verified results
@@ -12,7 +12,7 @@ SquadArena is a trusted esports platform focused on Garena Free Fire Max, where 
  - Trusted platform for Free Fire Max players
 
 ## Key Features
-- Ranked and unranked matches across Free Fire Max modes (Clash Squad, Battle Royale, and more)
+- Ranked and unranked matches across Free Fire Max modes (Clash Squad, Battle Royale, TDM, WOW and more)
 - 1v1, 2v2, and Squad formats
 - Tournaments: daily, weekly, and special events
 - Wallet: deposits, withdrawals, and prize tracking
@@ -35,7 +35,7 @@ SquadArena is a trusted esports platform focused on Garena Free Fire Max, where 
 - Transparent rules for each game/match type
 
 ## Supported Games
-- Primary: Garena Free Fire Max (core focus of the platform)
+- Primary: Garena Free Fire Max & BGMI (core focus of the platform)
 - Coming soon: Additional popular mobile esports titles based on community demand.
 
 If you’re a developer or publisher interested in integrations, reach out via the contact section below.
